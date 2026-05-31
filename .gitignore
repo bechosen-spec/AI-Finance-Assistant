@@ -1,0 +1,6 @@
+.env
+expenses.db
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+venv/
